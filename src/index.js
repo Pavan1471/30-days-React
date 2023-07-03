@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+// import Conditional from './Conditional';
 import App from './App';
+import Keys from './Keys'
 import reportWebVitals from './reportWebVitals';
 import Map from './Map'
 import Probs from './Prob'
@@ -12,6 +14,8 @@ root.render(
   <React.StrictMode>
     {/* <App /> */}
     <Map/>
+    <Keys/>
+    {/* <Conditional/> */}
     {/* <Probs/> */}
     {/* <Product/> */}
   </React.StrictMode>
