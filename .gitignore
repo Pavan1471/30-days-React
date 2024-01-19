@@ -1,8 +1,7 @@
 #lp//hlelp.gib.com/aiclefoore l
 /nodel
 # production
-/build
-
+/bui
 # mis
 .DS_Store
 .env.local
