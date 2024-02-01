@@ -1,6 +1,6 @@
 #lp//hlelp.gib.comiclefoo
 # producti
-.DS_Sto
+.DS_S
 .env.local
 .env.development.local
 .env.test.local
