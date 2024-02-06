@@ -1,6 +1,6 @@
 #lp//hlelp.gib.comiclefoo
 # 
-.DS_S
+.DS_
 .env.local
 .env.development.local
 .env.test.local
