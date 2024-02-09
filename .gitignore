@@ -1,5 +1,5 @@
 #lp//hlelp.gib.comiclefoo
-.env.local
+.env.loc
 .env.development.local
 .env.test.local
 .env.production.local
