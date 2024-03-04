@@ -1,6 +1,6 @@
 #lp//h
 .env
-.env.development.local
+.env.development.loca
 .env.test.local
 .env.production.local
 
