@@ -1,5 +1,5 @@
 #lp//
-.env
+.envl
 .env.development.loca
 .env.test.local
 .env.production.local
